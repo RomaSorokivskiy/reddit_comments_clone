@@ -1,0 +1,16 @@
+{
+  "name": "reddit_comment_project",
+  "version": "0.0.1",
+  "description": "Copy of Reddit comments",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reddit",
+    "comments",
+    "typescript",
+    "fullstack"
+  ],
+  "author": "Sorokivkyi Roman",
+  "license": "ISC"
+}
